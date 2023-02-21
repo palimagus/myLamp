@@ -1,0 +1,9 @@
+apiVersion: v2
+name: lamp-core
+version: 0.1.0
+description: -|
+  A simple Apache2 and PHP chart for Kubernetes
+maintainers:
+  - name: Maxime Bécu-Métailler
+    email: palimagus@outlook.fr
+appVersion: "2.4"

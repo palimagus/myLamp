@@ -1,0 +1,8 @@
+image:
+  repository: palimagus/lamp-db
+  tag: latest
+  pullPolicy: Always
+mysqlRootPassword: root-password-24db
+mysqlUser: lamp
+mysqlPassword: lamp
+mysqlDatabase: lamp

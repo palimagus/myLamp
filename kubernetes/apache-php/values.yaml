@@ -1,0 +1,4 @@
+image:
+  repository: palimagus/lamp-core
+  tag: latest
+  pullPolicy: Always
